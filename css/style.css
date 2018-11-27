@@ -45,3 +45,11 @@ figcaption {
   background-color: aqua; 
 }
 
+/* Descendant Selector */ 
+
+#logo h1 { 
+  /*selects what is inside the ID logo */ 
+  
+  
+}
+
