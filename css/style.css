@@ -49,7 +49,7 @@ figcaption {
 
 #logo h1 { 
   /*selects what is inside the ID logo */ 
-  
+  font-family: 'Clicker Script', cursive; 
   
 }
 
